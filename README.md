@@ -9,14 +9,8 @@ This workshop is part of the Digital India RISC-V Mission 2025, powered by **Sam
 ## Resource Person
 Kunal Ghosh
 - Founder of VLSI System Design (VSD)
-- IITian with ove---
-
-## Resource Person
-Kunal Ghosh
-- Founder of VLSI System Design (VSD)
 - IITian with over 15 years of experience in the VLSI industry.
 
-r 15 years of experience in the VLSI industry.
 ---
 
 ## Workshop Agenda
