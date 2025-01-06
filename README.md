@@ -36,3 +36,13 @@ Venue: Global Academy of Technology, Rajarajeshwari Nagar, Bengaluru - 560098
 - Hands-On Learning: Learn about cutting-edge open-source tools and RISC-V hardware.
 
 ---
+## Task1
+### Openlane
+![openlane](https://github.com/user-attachments/assets/8702ff91-eade-43bb-8073-fb1e83ce50e3)
+
+ ### c-based-lab
+ ![c based lab](https://github.com/user-attachments/assets/feecaa36-7ea2-480b-aef4-2777e08ba3ad)
+
+### risc-based-lab
+![risc-based-lab-Ofast](https://github.com/user-attachments/assets/08e55b92-1164-4d6d-91ed-9ef70cd880fa)
+---
