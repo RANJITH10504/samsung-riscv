@@ -36,13 +36,30 @@ Venue: Global Academy of Technology, Rajarajeshwari Nagar, Bengaluru - 560098
 - Hands-On Learning: Learn about cutting-edge open-source tools and RISC-V hardware.
 
 ---
-## Task1
-### Openlane
-![openlane](https://github.com/user-attachments/assets/8702ff91-eade-43bb-8073-fb1e83ce50e3)
+## Tasks
+<details>
+<summary> Task 1:To perform C_Based and RISC-V lab  </summary>
+<br> 
+ 
+- Create a GitHub Repository:
+Name it "samsung-riscv".
+Watch the provided videos to understand how the program works.
+ 
+- Install the RISC-V Toolchain:
+Use the VDI link from the shared PDF to download and install the toolchain.
+ 
+- Follow Lab Videos:
+Watch the C-based and RISC-V-based lab videos.
+Repeat the steps on your computer.
+Take screenshots of your progress with the current date and time visible on your screen.
+ 
+- simple c program
+![c based lab](https://github.com/user-attachments/assets/046951b9-5f67-443c-aa30-f1f323208bac)
 
- ### c-based-lab
- ![c based lab](https://github.com/user-attachments/assets/feecaa36-7ea2-480b-aef4-2777e08ba3ad)
 
-### risc-based-lab
-![risc-based-lab-Ofast](https://github.com/user-attachments/assets/08e55b92-1164-4d6d-91ed-9ef70cd880fa)
+- disassembly code
+![risc-based-lab-O1](https://github.com/user-attachments/assets/91f11897-f95a-4998-ae85-e5309f3f0fc5)
+
+![risc-based-lab-Ofast](https://github.com/user-attachments/assets/aa3c09d0-6058-4875-92c9-b8f0d9e0216e)
+</details>
 ---
