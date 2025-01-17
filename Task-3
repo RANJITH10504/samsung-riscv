@@ -31,4 +31,4 @@ Observe and define 15 instructions, determine the exact 32-bit instruction code 
 - Example: csrr rd, csr
 - Fields: opcode, rd, csr
 ---
-# Analyzed instruction
+# Analyzed instruction.
